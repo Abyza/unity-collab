@@ -2,6 +2,9 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+Assets/Images.zip
+Assets/Images.zip.meta
+Assets/Images
 .utmp/
 /[Ll]ibrary/
 /[Tt]emp/
